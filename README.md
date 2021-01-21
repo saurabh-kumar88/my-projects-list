@@ -1,4 +1,4 @@
-<h1>Demo/Toy Projects, mainly for learning purpose</h1>
+<h1>My demo projects along with links & tecnologies stack used</h1>
 <table>
   <tr>
     <th>Name</th>
