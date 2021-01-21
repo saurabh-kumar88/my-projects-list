@@ -1,4 +1,4 @@
-<h1>My demo projects along with links & tecnologies stack used</h1>
+<h1>List of my demo projects</h1>
 <table>
   <tr>
     <th>Name</th>
@@ -16,7 +16,7 @@
     <td>JavaScript/Node.js</td>
   </tr>
   <tr>
-    <td>Node.js Banking App(Not completed yet)</td>
+    <td>Node.js Banking App ( Not completed yet )</td>
     <td>https://github.com/saurabh-kumar88/NODEJS-BANKING-APP</td>
     <td>JavaScript/Node.js/Express.js</td>
   </tr>
