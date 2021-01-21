@@ -1,66 +1,36 @@
 # my-projects-list
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-#customers {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#customers td, #customers th {
-border: 1px solid #ddd;
-padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-padding-top: 12px;
-padding-bottom: 12px;
-text-align: left;
-background-color: #4CAF50;
-color: white;
-}
-</style>
-
-</head>
-<body>
 <h1>Demo/Toy Projects, mainly for learning purpose</h1>
-<table id="customers">
+<table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Lanuage/Framework</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Flask REST API version 1.0</td>
+    <td>https://github.com/saurabh-kumar88/flask-crud-api-v1</td>
+    <td>Python/Flask</td>
   </tr>
   <tr>
-    <td>Berglunds snabbköp</td>
-    <td>Christina Berglund</td>
-    <td>Sweden</td>
+    <td>MERN-STACK based simple CRUD App</td>
+    <td>https://mern-crud-app-front-end-v1.herokuapp.com/</td>
+    <td>JavaScript/Node.js/React.js</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Node-mongodb-3Collections-REST-API</td>
+    <td>https://github.com/saurabh-kumar88/node-3collections-api-v1</td>
+    <td>JavaScript/Node.js</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>New Delhi Street Trees Map</td>
+    <td>https://github.com/saurabh-kumar88/django-street-trees-map</td>
+    <td>Python/Django</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Django Blog App</td>
+    <td>https://github.com/saurabh-kumar88/django-blog-app</td>
+    <td>Python/Django</td>
   </tr>
   <tr>
     <td>Königlich Essen</td>
@@ -88,6 +58,3 @@ color: white;
     <td>France</td>
   </tr>
 </table>
-
-</body>
-</html>
